@@ -11,4 +11,4 @@ This app is deployed on Heroku, you can find the [Live App Here](https://pacific
 - jawsDB not properly set up
  
 ## Status
-Project is: _complete_
+Project is: _in progress_
