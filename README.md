@@ -7,3 +7,8 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 This app is deployed on Heroku, you can find the [Live App Here](https://pacific-garden-10018.herokuapp.com/) !
 
 ### To-do List
+- burgers can be added, but not devoured
+- jawsDB not properly set up
+ 
+## Status
+Project is: _complete_
