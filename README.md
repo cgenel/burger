@@ -1,4 +1,5 @@
 # Eat-Da-Burger
+> An app for eating burgers utilizing Node.js, MySQL, Handlebars, Express, and a homemade ORM.
 
 ## Descritption
 
