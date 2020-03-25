@@ -5,7 +5,7 @@ $(function () {
     event.preventDefault();
 
     var id = $(this).data("id");
-    var newDevour = $(this).data("newsleep");
+    var newDevour = $(this).data("newState");
     var devouredState = { 
       devoured: newDevour 
     };
